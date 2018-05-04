@@ -1,5 +1,5 @@
 # learning
 
-Teaching myself Python and R through practice.
+Teaching myself R and Python to better explore datasets.
 
-I've added the various practice projects I've worked on since starting last year to get a better understanding of these programming languages.
+I've added some of the datasets I've explored using skills learned from from DataQuest, DataCamp, and books. 
